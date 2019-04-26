@@ -1,0 +1,24 @@
+{
+  "name": "datahooks",
+  "version": "1.0.0",
+  "description": "General purpose library to create react hooks for tapping into data",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Paratron/datahooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "data"
+  ],
+  "author": "Christian Engel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paratron/datahooks/issues"
+  },
+  "homepage": "https://github.com/Paratron/datahooks#readme"
+}
